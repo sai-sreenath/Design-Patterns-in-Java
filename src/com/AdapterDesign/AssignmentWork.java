@@ -1,4 +1,4 @@
-package com.structural.AdapterDesign;
+package com.AdapterDesign;
 
 public class AssignmentWork {
 
